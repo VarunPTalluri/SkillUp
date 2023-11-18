@@ -1,0 +1,3 @@
+[submodule "skillup_webapp"]
+	path = skillup_webapp
+	url = git@github.com:Mohammad4844/skillup_webapp.git

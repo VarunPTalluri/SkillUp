@@ -1,3 +1,6 @@
+UPDATE SPECIFICS USING CHAT-GPT
+
+
 SkillUp - Your Micro-Learning Companion 🚀
 Welcome to SkillUp, where skill-building meets micro-learning magic! 🌟
 

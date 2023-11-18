@@ -9,23 +9,21 @@ import json
 
 import pandas as pd
 
-"""df = pd.read_csv("Scraper/extracted_text.csv")
+indf = pd.read_csv("Scraper/extracted_text.csv")
+outdict = {"index": [], "text": [], "url": []}
 
-print(df)"""
+for index, row in indf.iterrows():
+    text = row['text']
+    response = client.chat.completions.create(model='gpt-4',
+    messages=[
+        {"role": "system", "content": "You are a helpful assistant"},
+        {"role": "user", "content": "\nCan you remove words that don't relate to the main themes of the article deliminated by triple quotes\n" + f'"""{text}"""'}
+    ])
+    outdict["index"].append(index)
+    outdict["text"].append(response.choices[0].message.content)
+    outdict["url"].append(row['url'])
 
-with open("Scraper/onearticle.txt") as f:
-    text = f.read()
-with open("Scraper/resultwanted.txt") as f:
-    output = f.read()
-with open("Scraper/inputwanted.txt") as f:
-    input_ = f.read()
-
-response = client.chat.completions.create(model='gpt-4',
-messages=[
-    {"role": "system", "content": "You are a helpful assistant"},
-    #{"role": "user", "content": text + "\n can you explain the article in such a way that it can train another GPT agent with no prior knowledge"}
-    {"role": "user", "content": "Can you remove the extra words here: " input_ + "\n this in the output\n" + output + "\n" text + "\n can you remove the extra words?"}
-])
-
+    print(f"article {index} done")
 # print the response
-print(response.choices[0].message.content)
+outdf = pd.DataFrame(data = outdict)
+outdf.to_csv("Scraper/cleaned_extracted_text.csv")

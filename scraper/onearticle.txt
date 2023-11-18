@@ -1,0 +1,421 @@
+Economic Indicator: Definition and How to Interpret
+Investing
+Stocks
+Bonds
+ETFs
+Options and Derivatives
+Commodities
+Trading
+FinTech and Automated Investing
+Brokers
+Fundamental Analysis
+Technical Analysis
+Markets
+View All
+Simulator
+Login / Portfolio
+Trade
+Research
+My Games
+Leaderboard
+Banking
+Savings Accounts
+Certificates of Deposit (CDs)
+Money Market Accounts
+Checking Accounts
+View All
+Personal Finance
+Budgeting and Saving
+Personal Loans
+Insurance
+Mortgages
+Credit and Debt
+Student Loans
+Taxes
+Credit Cards
+Financial Literacy
+Retirement
+View All
+News
+Markets
+Companies
+Earnings
+CD Rates
+Mortgage Rates
+Economy
+Government
+Crypto
+ETFs
+Personal Finance
+View All
+Reviews
+Best Online Brokers
+Best Savings Rates
+Best CD Rates
+Best Life Insurance
+Best Personal Loans
+Best Mortgage Rates
+Best Money Market Accounts
+Best Auto Loan Rates
+Best Credit Repair Companies
+Best Credit Cards
+View All
+Academy
+Investing for Beginners
+Trading for Beginners
+Become a Day Trader
+Technical Analysis
+All Investing Courses
+All Trading Courses
+View All
+Trade
+Search
+Search
+Please fill out this field.
+Search
+Search
+Please fill out this field.
+Investing
+Investing
+Stocks
+Bonds
+ETFs
+Options and Derivatives
+Commodities
+Trading
+FinTech and Automated Investing
+Brokers
+Fundamental Analysis
+Technical Analysis
+Markets
+View All
+Simulator
+Simulator
+Login / Portfolio
+Trade
+Research
+My Games
+Leaderboard
+Banking
+Banking
+Savings Accounts
+Certificates of Deposit (CDs)
+Money Market Accounts
+Checking Accounts
+View All
+Personal Finance
+Personal Finance
+Budgeting and Saving
+Personal Loans
+Insurance
+Mortgages
+Credit and Debt
+Student Loans
+Taxes
+Credit Cards
+Financial Literacy
+Retirement
+View All
+News
+News
+Markets
+Companies
+Earnings
+CD Rates
+Mortgage Rates
+Economy
+Government
+Crypto
+ETFs
+Personal Finance
+View All
+Reviews
+Reviews
+Best Online Brokers
+Best Savings Rates
+Best CD Rates
+Best Life Insurance
+Best Personal Loans
+Best Mortgage Rates
+Best Money Market Accounts
+Best Auto Loan Rates
+Best Credit Repair Companies
+Best Credit Cards
+View All
+Academy
+Academy
+Investing for Beginners
+Trading for Beginners
+Become a Day Trader
+Technical Analysis
+All Investing Courses
+All Trading Courses
+View All
+Economy
+Economy
+Government and Policy
+Monetary Policy
+Fiscal Policy
+Economics
+View All
+Financial Terms
+Newsletter
+About Us
+Follow Us
+Table of Contents
+Expand
+Table of Contents
+What Is an Economic Indicator?
+Types
+Interpretation
+The Stock Market As an Indicator
+Pros and Cons
+Economic Indicators FAQs
+The Bottom Line
+Economics
+Guide to Microeconomics
+Economic Indicator: Definition and How to Interpret
+By
+Adam Barone
+Full Bio
+Adam Barone is an award-winning journalist and the proprietor of ContentOven.com. He has 5+ years of experience as a content strategist/editor.
+Learn about our
+editorial policies
+Updated January 30, 2023
+Reviewed by
+Michael J Boyle
+Reviewed by
+Michael J Boyle
+Full Bio
+Michael Boyle is an experienced financial professional with more than 10 years working with financial planning, derivatives, equities, fixed income, project management, and analytics.
+Learn about our
+Financial Review Board
+Fact checked by
+Marcus Reeves
+What Is an Economic Indicator?
+An economic indicator is a piece of economic data, usually of
+macroeconomic
+scale, that is used by analysts to interpret current or future investment possibilities. These indicators also help to judge the overall health of an economy. Economic indicators can be anything the investor chooses, but specific pieces of data released by the government and non-profit organizations have become widely followed. Such indicators include but aren't limited to the
+Consumer Price Index (CPI)
+,
+gross domestic product
+(GDP), or unemployment figures.
+Key Takeaways
+An economic indicator is a macroeconomic measurement used by analysts to understand current and future economic activity and opportunity.
+The most widely-used economic indicators come from data released by the government and non-profit organizations or universities.
+Indicators can be leading—which tend to precede trends, lagging—which confirm trends, or coincident—that which is happening now.
+Indicators can also be lagging, which means they report economic circumstances but only after the circumstance has materialized.
+Indicators can give investors insight as to how trades may play out, though unreliability of data and inconsistence of variables may yield indicators less helpful.
+Investopedia / Candra Huff
+Types of Economic Indicators
+Economic indicators can be divided into categories or groups. Most of these economic indicators have a specific schedule for release, allowing
+investors
+to prepare for and plan on seeing certain information at certain times of the month and year.
+Leading Indicators
+Leading indicators
+, such as the yield curve, consumer durables, net business formations, and share prices, are used to predict the future movements of an economy. The numbers or data on these financial guideposts will move or change before the economy, thus their category's name. Consideration of the information from these indicators must be taken with a grain of salt, as they can be incorrect.
+Investors are most often interested in leading indicators, as a correctly placed leading indicator means certain measures correctly predicted the future. Leading indicators are prepared making broad economic assumptions. For example, many investors track forward-looking yield curves to project how future interest rates may dictate stock or bond performance. This analysis relies on historical data; based on how investments performed the last time the yield curve was a certain way, some may assume those same investments will repeat their performance.
+Coincident Indicators
+Coincident indicators
+, which include such things as GDP, employment levels, and retail sales, are seen with the occurrence of specific economic activities. This class of metrics shows the activity of a particular area or region. Many policymakers and economists follow this real-time data, as it provides the most insight into to what is actually happening. These types of indicators also allow for policymakers to leverage real data without delay to make informed decisions.
+Coincident indicators are somewhat less helpful to investors, as the economic situation has already blossomed. As opposed to a forecast or a prediction, a coincident indicator informs investors of what is actually happening in the present. Therefore coincident indicators are only useful to those who can correctly interpret how economic conditions today (i.e. falling GDP) will impact future periods.
+Lagging Indicators
+Lagging indicators
+, such as gross national product (GNP), CPI, unemployment rates, and interest rates, are only seen after a specific economic activity occurs. As the name implies, these data sets show information after the event has happened. This trailing indicator is a technical indicator that comes after large economic shifts.
+The problem with lagging indicators is the strategy or response to these indicators may be too late. For example, by the time the Federal Reserve interprets CPI data and decides how best to enact monetary policy to stem inflation, the numbers they are observing are slightly outdated. Though lagging indicators are still used by many governments and institutions, they also pose the risk of guiding incorrect decision-making due to incorrect assumptions about present-day economics.
+Indicators provide signs along the road, but the best investors utilize many economic indicators, combining them to glean insight into patterns and verifications within multiple sets of data.
+Interpreting Economic Indicators
+An economic indicator is only useful if one interprets it correctly. History has shown strong
+correlations
+between
+economic growth
+, as measured by GDP, and corporate profit growth. However, determining whether a specific company may grow its earnings based on one indicator of GDP is nearly impossible.
+There is no denying the objective importance of interest rates, gross domestic product, and existing home sales or other indexes. Why objectively important? Because what you're really measuring is the cost of money, spending, investment, and the activity level of a major portion of the overall economy.
+Like many other forms of financial or economic metrics, economic indicators hold tremendous value when compared across a period of time. For example, governments may observe how unemployment rates have fluctuated over the past five years. A single instance of unemployment rates doesn't yield much value; however, comparing it to prior periods allows analysts to better gauge a statistic.
+In addition, many economic indicators have a benchmark set, whether by a government agency or other entity. Consider how the Federal Reserve's target rate of inflation is usually 2%. The Federal Reserve then enacts policies based on CPI measurements to achieve this target. Without this benchmark, analysts and policymakers wouldn't know what makes a good indicator's value good or poor.
+The Stock Market As an Indicator
+Leading indicators forecast where an economy is headed. One of the top leading indicators is the stock market itself. Though not the most critical leading indicator, it’s the one that most people look at. Because stock prices factor in forward-looking performance, the market can indicate the economy’s direction, if earnings estimates are accurate.
+A strong market may suggest that earnings estimates are up, which may suggest overall economic activity is up. Conversely, a down market may indicate that company earnings are expected to suffer. However, there are limitations to the usefulness of the stock market as an indicator because performance to estimates is not guaranteed, so there is a risk.
+Also, stocks are subject to price manipulations caused by Wall Street traders and corporations. Manipulations can include inflating stock prices via high-volume trades, complex financial derivative strategies and creative accounting principles—both legal and illegal. The stock market is also vulnerable to the emergence of “bubbles,” which may give a false positive regarding the market’s direction.
+If you're particularly interested in a specific economic indicator released monthly by the government, be aware that report is often released on the same day (i.e. second Tuesday) of every month at the same time.
+Advantages and Disadvantages of Economic Indicators
+Pros of Economic Indicators
+Economic indicators rely on data to substantiate predictions of what is to come in the future. When analyzed correctly, investors can capitalize on data to make successful trades or correctly assess future market conditions.
+Economic indicators are often free and public, as the United States government prepares many economic indicators. In addition, these economic indicators reported by governments often have a fixed cadence and steady form of measurement. This means you can usually rely on the method of how an indicator was calculated and the timing of when that indicator will be released.
+Cons of Economic Indicators
+The obvious downside to economic indicators, at least leading or coincident indicators, is that they rely on some degree of forecasting. While leading indicators are projections to the future, even coincident indicators may rely on a bit of assumptions. Therefore, economic indicators do not always predict the future correctly, and the recommended action to take may not play out as expected.
+Economic indicators, though boiled down to a single number, can be very complex. For example, consider all of the variables the comprise unemployment. From macroeconomic conditions to weather patterns impacting farming jobs, there may be too many levers that manipulate a given indicator that make it tough to accurately predict what will happen.
+Finally, economic indicators are somewhat open to interpretation. Consider an example where inflation has dropped from 4.6% to 4.5%. Is this considered a good change, or should the drop have been larger? Economics and policymakers often debate on the appropriate approach for economic factors. Though data may be concrete, the way to interpret it may lead to various ways evaluating these indicators.
+Economic Indicators Pros and Cons
+Pros
+May accurately forecast what is to come based on prevailing data
+Often use publicly available information
+May be calculated using the same process over and over (when issued by governments)
+May be released on a fixed, predictable cadence
+Cons
+May not accurately predict the future
+Relies on many assumptions, some of which may be unpredictable
+Can be open for interpretation, as data may indicate different things
+Still requires expertise to interpret and understand the results
+What Is the Most Important Economic Indicator?
+Every economist may come up with their own favorite economic indicator. For many, a country's GDP usually represents the best overall picture of a country's economic health. It combines the monetary value of every produced in an economy for a certain period, and it considers household consumption, government purchases, and imports/exports.
+Is Inflation an Economic Indicator?
+Yes, inflation is a lagging indicator that is reported after a rise in prices has occurred. This type of economic indicator is helpful for government agencies to set public policy, as without this type of data, they would not know the direction of the economy. Therefore, while inflation and other lagging indicators are still useful to investors, they are more useful not for the indicator themselves (as they are representative of the past) but for future policy responses.
+What Are the Economic Indicators of a Strong Economy?
+An economy may be strong if it has a robust amount of economic activity, and job growth. This is measured by low unemployment, steady inflation, increases to construction, positive consumer index readings, and increasing GDP.
+Do Traders Use Economic Indicators?
+Traders and investment professionals may use economic indicators to predict how broad economic policy will impact their trades or investment strategy. Many trades rely on technical indicators which reflect the detailed movement of specific stocks. Technical indicators are different than economic indicators as economic indicators are much more broad and less security-specific.
+The Bottom Line
+Economic indicators are leading, coincident, or lagging figures that indicate broad conditions. Economic indicators such as GDP, unemployment, inflation, or certain prices inform economics, companies, and investors of not only where the economy is today but perhaps where the economy may be headed. Economic indicators can be used to guide government policy or set investment strategies.
+Open a New Bank Account
+Advertiser Disclosure
+×
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+Sponsor
+Name
+Description
+Open a New Bank Account
+Advertiser Disclosure
+×
+The offers that appear in this table are from partnerships from which Investopedia receives compensation. This compensation may impact how and where listings appear. Investopedia does not include all offers available in the marketplace.
+Part Of
+Guide to Economics
+Economics Defined with Types, Indicators, and Systems
+1 of 33
+Economy: What It Is, Types of Economies, Economic Indicators
+2 of 33
+A Brief History of Economics
+3 of 33
+Is Economics a Science?
+4 of 33
+Finance vs. Economics: What's the Difference?
+5 of 33
+Macroeconomics Definition, History, and Schools of Thought
+6 of 33
+Microeconomics Definition, Uses, and Concepts
+7 of 33
+4 Economic Concepts Consumers Need to Know
+8 of 33
+Law of Supply and Demand in Economics: How It Works
+9 of 33
+Demand-Side Economics Definition, Examples of Policies
+10 of 33
+Supply-Side Theory: Definition and Comparison to Demand-Side
+11 of 33
+What Is a Market Economy and How Does It Work?
+12 of 33
+Command Economy: Definition, How It Works, and Characteristics
+13 of 33
+Economic Value: Definition, Examples, Ways To Estimate
+14 of 33
+Keynesian Economics Theory: Definition and How It's Used
+15 of 33
+Social Economics
+16 of 33
+Economic Indicator: Definition and How to Interpret
+17 of 33
+Top 10 U.S. Economic Indicators
+18 of 33
+Gross Domestic Product (GDP): Formula and How to Use It
+19 of 33
+What Is GDP and Why Is It So Important to Economists and Investors?
+20 of 33
+Consumer Spending: Definition, Measurement, and Importance
+21 of 33
+Retail Sales: Definition, Measurement, as an Economic Indicator
+22 of 33
+Job Market: Definition, Measurement, Example
+23 of 33
+The Top 25 Economies in the World
+24 of 33
+What Are Some Examples of Free Market Economies?
+25 of 33
+Is the United States a Market Economy or a Mixed Economy?
+26 of 33
+Primary Drivers of the Chinese Economy
+27 of 33
+Japan Inc.: What It is, How It Works, History
+28 of 33
+The Fundamentals of How India Makes Its Money
+29 of 33
+European Union (EU): What It Is, Countries, History, Purpose
+30 of 33
+The German Economic Miracle Post WWII
+31 of 33
+The Economy of the United Kingdom
+32 of 33
+How the North Korean Economy Works
+33 of 33
+Related Terms
+Business Cycle Indicators (BCI): Meaning and Indicators
+Business cycle indicators are a composite of leading, lagging, and coincident indexes used to make economic forecasts.
+more
+The Conference Board (CB): What It Means and How It Works
+The Conference Board (CB) is a not-for-profit research organization which distributes vital economic information to its peer-to-peer business members.
+more
+Leading Indicators: Definition and How They’re Used by Investors
+A leading indicator is a measurable set of data that, if monitored, can give some insight into the future behavior of the economy or a business.
+more
+Gross Domestic Product (GDP): Formula and How to Use It
+Gross domestic product is the monetary value of all finished goods and services made within a country during a specific period.
+more
+Coincident Indicator: What it is, How it Works, Impact
+A coincident indicator is a metric that shows the contemporaneous state of economic activity within a particular area.
+more
+Consumer Confidence Index (CCI): Definition and What It Indicates
+The Consumer Confidence Index is a survey that measures how optimistic or pessimistic consumers are regarding their expected financial situation.
+more
+Related Articles
+Business Cycle Indicators (BCI): Meaning and Indicators
+Leading, Lagging, and Coincident Indicators
+The Conference Board (CB): What It Means and How It Works
+Economic Indicators That Help Predict Market Trends
+Top 10 U.S. Economic Indicators
+Leading Indicators: Definition and How They’re Used by Investors
+Partner Links
+About Us
+Terms of Service
+Dictionary
+Editorial Policy
+Advertise
+News
+Privacy Policy
+Contact Us
+Careers
+Your Privacy Choices
+#
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Investopedia is part of the
+Dotdash Meredith
+publishing family.
+Please review our updated
+Terms of Service
+.
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+Cookies Settings
+Accept All Cookies

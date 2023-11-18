@@ -23,8 +23,11 @@ with open(input_csv_file, 'r') as infile, open(output_csv_file, 'w', newline='')
     fieldnames = ['url', 'text']
     writer = csv.DictWriter(outfile, fieldnames=fieldnames)
     writer.writeheader()
-
+    i = 1
     for row in reader:
         website_url = row['urls']
+        print(f"extracting {website_url}")
         website_text = get_visible_text(website_url)
         writer.writerow({'url': website_url, 'text': website_text})
+        print(f"article {i} text extracted")
+        i+=1

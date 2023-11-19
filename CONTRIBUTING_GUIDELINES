@@ -18,7 +18,7 @@ If you find a bug, please open an issue on our [issue tracker](https://github.co
 2. Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature` or `bugfix/your-bugfix`.
 3. Make your changes and commit them with descriptive commit messages.
 4. Push your changes to your fork: `git push origin feature/your-feature`.
-5. Open a pull request on the [main repository](https://github.com/your-username/your-repo).
+5. Open a pull request
 
 ### Development Setup
 
@@ -38,8 +38,7 @@ Please follow our [coding style guidelines](CODE_STYLE.md).
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact us at [your-email@example.com].
+If you have any questions or need further assistance, feel free to contact us.
 
-## License
 
-By contributing to this project, you agree that your contributions will be licensed under the [LICENSE](LICENSE) file.
+#Generated with the help of CHATGPT#

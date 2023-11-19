@@ -45,15 +45,15 @@ def get_this_articles_embeddings(id):
     # Fetch data from the collection based on the query
     result = collection.find(query)
 
-    embeddings = []
+    embedding = []
     # Iterate over the results
     for document in result:
-        embeddings.append(document["embeddings"])
+        embedding.append(document["embeddings"])
 
 
     # Close the MongoDB connection
     client.close()
 
-    return embeddings
+    return embedding[0]
 
 #get_other_articles(1)

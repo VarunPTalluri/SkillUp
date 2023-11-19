@@ -13,7 +13,6 @@ def upload_to_mongodb(input_file):
     # Replace 'your_database' and 'your_collection' with your actual database and collection names
     db = client['Database1']
     collection = db['Collection1']
-    print(client)
     # Clear the collection before inserting new data
     collection.delete_many({})
 

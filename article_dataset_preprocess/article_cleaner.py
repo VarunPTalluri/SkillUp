@@ -16,7 +16,6 @@ def clean_article_text(input_file, output_file):
     indf = indf.replace("", np.NaN)
     indf = indf.dropna()
 
-    print(indf)
     outdict = {"index": [], "text": [], "url": []}
 
     for index, row in indf.iterrows():

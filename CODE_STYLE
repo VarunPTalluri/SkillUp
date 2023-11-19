@@ -1,0 +1,33 @@
+Coding Guidelines
+
+Language Conventions
+Snake Case: Utilize snake_case for variable names.
+
+python
+example_variable = "Hello, SkillUp!"
+Documentation Practices
+Proper Commenting: Add insightful comments to explain the why, not just the how.
+
+javascript
+// Looping through the array of elements.
+for (let i = 0; i < elements.length; i++) {
+    // Performing an operation on each element.
+    performOperation(elements[i]);
+}
+
+Version Control Etiquette
+Frequent Commits: Maintain a consistent commit history for clarity.
+
+bash
+git commit -m "Feature: Implemented the navigation algorithm"
+Collaborative Code Review
+Mandatory Review Requests: Request at least one review before merging changes.
+
+bash
+git push origin feature/your-feature
+Initiate the review request on GitHub for collective feedback.
+
+Conclusion
+By adhering to these guidelines, we ensure code consistency and collaborative excellence. Let's maintain a high standard in our coding practices.
+
+Happy coding! 🚀

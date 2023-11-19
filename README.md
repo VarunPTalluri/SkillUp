@@ -19,6 +19,7 @@ SkillUp operates as a technological marvel supported by:
 - **SQL:** The structured query language ensures data alignment and accuracy.
 - **Ruby on Rails:** The backbone of SkillUp, seamlessly integrating frontend and backend.
 - **Python:** The versatile programming language ensuring operational efficiency.
+- **Google Cloud Platform:** A platform used for cloud storage and embeddings using Vertex AI.
 
 ## How It Works
 SkillUp functions as your personalized finance concierge:

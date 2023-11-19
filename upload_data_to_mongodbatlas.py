@@ -17,7 +17,7 @@ collection = db['Collection1']
 collection.delete_many({})
 
 # Read CSV file into a pandas DataFrame
-csv_file_path = 'cleaned_extracted_text.csv'
+csv_file_path = 'articles_w_summaries.csv'
 data = pd.read_csv(csv_file_path)
 
 # Convert DataFrame to a list of dictionaries (each row becomes a dictionary)

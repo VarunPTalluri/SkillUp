@@ -29,5 +29,6 @@ def scrape_articles(input_file, output_file):
                 website_text = ""
                 print(website_text)
                 print("did not add article")
+                continue
             writer.writerow({'url': website_url, 'text': website_text})
             print(f"article {website_url} text extracted")

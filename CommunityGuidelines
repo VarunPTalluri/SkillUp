@@ -1,0 +1,45 @@
+# Contributing to [SkillUp]
+
+Thank you for your interest in contributing to our project! We welcome contributions from the community to improve and grow our project.
+
+## Code of Conduct
+
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
+
+## How to Contribute
+
+### Reporting Bugs
+
+If you find a bug, please open an issue on our [issue tracker](https://github.com/your-username/your-repo/issues).
+
+### Submitting Changes
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature` or `bugfix/your-bugfix`.
+3. Make your changes and commit them with descriptive commit messages.
+4. Push your changes to your fork: `git push origin feature/your-feature`.
+5. Open a pull request on the [main repository](https://github.com/your-username/your-repo).
+
+### Development Setup
+
+Provide instructions on how to set up the development environment.
+
+## Giving Proper Credit
+
+When contributing articles to the project, please ensure that proper credit is given to the original authors Varun, Yash, Mohammad, and Rena. Include the author's name and any relevant attribution details in your contributions. This ensures that we respect the work of the original content creators.
+
+## Article Ownership Disclaimer
+
+SkillUp does not claim ownership of any articles contributed to this project. This platform serves as an endpoint to increase the accessibility of these articles. Contributors are responsible for ensuring that they have the right to contribute the content, and proper attribution is maintained.
+
+## Code Style
+
+Please follow our [coding style guidelines](CODE_STYLE.md).
+
+## Contact
+
+If you have any questions or need further assistance, feel free to contact us at [your-email@example.com].
+
+## License
+
+By contributing to this project, you agree that your contributions will be licensed under the [LICENSE](LICENSE) file.

@@ -39,6 +39,8 @@ Embark on your financial journey with these simple steps:
 Join our community of contributors. Whether you are a finance enthusiast, coding expert, or design virtuoso, refer to our Contributing Guidelines for detailed information.
 
 ## License
-SkillUp is licensed under the MIT License. Feel free to use, modify, and share financial insights responsibly.
+Feel free to use, modify, and share financial insights responsibly.
 
 SkillUp – Where Finance Meets Creativity, Each Insight a Step Towards Financial Empowerment! 💰📖
+
+# README Generated with the help of CHATGPT#

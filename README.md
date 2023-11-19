@@ -1,13 +1,4 @@
-# SkillUp – Your Premier Resource for Financial Wisdom and Insights!
-
-## Table of Contents
-1. **Overview**
-2. **Meet the SkillUp Team**
-3. **Technological Marvels**
-4. **How It Works**
-5. **Getting Started**
-6. **Contributing**
-7. **License**
+## SkillUp – Your Premier Resource for Financial Wisdom and Insights!
 
 ## Overview
 SkillUp is an advanced finance platform designed to provide comprehensive guidance while maintaining a professional standard. It serves as a reliable source for financial insights, where articles are meticulously curated with precision and presented with sophistication.

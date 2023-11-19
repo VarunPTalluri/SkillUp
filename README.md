@@ -1,4 +1,5 @@
 ## SkillUp – Your Premier Resource for Financial Wisdom and Insights!
+[![My Skills](https://skillicons.dev/icons?i=ruby,py,html,css,gcp,rails,pytorch,postgres,bash,git,github,linux&perline=20)](https://skillicons.dev)
 
 ## Overview
 SkillUp is an advanced finance platform designed to provide comprehensive guidance while maintaining a professional standard. It serves as a reliable source for financial insights, where articles are meticulously curated with precision and presented with sophistication.

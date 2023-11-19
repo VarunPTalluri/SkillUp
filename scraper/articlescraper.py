@@ -15,9 +15,9 @@ def get_visible_text(url):
         return f"Error: {e}"
 
 # Replace 'urls.csv' with the path to your CSV file containing URLs
-input_csv_file = 'Scraper/urls.csv'
+input_csv_file = 'scraper/urls.csv'
 filenum = input("which file num? ")
-output_csv_file = f'Scraper/extracted_text{filenum}.csv'  # Replace with the desired output file name
+output_csv_file = f'scraper/extracted_text{filenum}.csv'  # Replace with the desired output file name
 
 with open(input_csv_file, 'r') as infile, open(output_csv_file, 'w', newline='') as outfile:
     reader = csv.DictReader(infile)

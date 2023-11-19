@@ -1,6 +1,10 @@
 from openai import AzureOpenAI
 
-client = AzureOpenAI(api_key='b4074b8eacf64b4fb201800c9ad60a6f',
+with open("SECRETKEY.txt", "r") as f:
+    key = f.read()
+    key = key.split('\n')[0]
+
+client = AzureOpenAI(api_key=key,
 azure_endpoint='https://api.umgpt.umich.edu/azure-openai-api/ptu',
 api_version='2023-03-15-preview')
 
@@ -10,7 +14,7 @@ import numpy as np
 import pandas as pd
 
 filenum = input("which file num? ")
-indf = pd.read_csv(f"Scraper/extracted_text{filenum}.csv")
+indf = pd.read_csv(f"scraper/extracted_text{filenum}.csv")
 indf = indf.replace("", np.NaN)
 indf = indf.dropna()
 
@@ -44,4 +48,4 @@ for index, row in indf.iterrows():
     print(f"article {index} done")
 # print the response
 outdf = pd.DataFrame(data = outdict)
-outdf.to_csv(f"Scraper/cleaned_extracted_text{filenum}.csv")
+outdf.to_csv(f"scraper/cleaned_extracted_text{filenum}.csv")

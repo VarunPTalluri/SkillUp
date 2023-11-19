@@ -16,15 +16,24 @@ def get_visible_text(url):
 
 # Replace 'urls.csv' with the path to your CSV file containing URLs
 input_csv_file = 'Scraper/urls.csv'
-output_csv_file = 'Scraper/extracted_text.csv'  # Replace with the desired output file name
+filenum = input("which file num? ")
+output_csv_file = f'Scraper/extracted_text{filenum}.csv'  # Replace with the desired output file name
 
 with open(input_csv_file, 'r') as infile, open(output_csv_file, 'w', newline='') as outfile:
     reader = csv.DictReader(infile)
     fieldnames = ['url', 'text']
-    writer = csv.DictWriter(outfile, fieldnames=fieldnames)
+    writer = csv.DictWriter(outfile, fieldnames=fieldnames, escapechar='\n')
     writer.writeheader()
-
+    i = 1
     for row in reader:
-        website_url = row['urls']
-        website_text = get_visible_text(website_url)
-        writer.writerow({'url': website_url, 'text': website_text})
+        if (i >= 97):
+            website_url = row['urls']
+            print(f"extracting {website_url}")
+            website_text = get_visible_text(website_url)
+            if (len(website_text) < 300): #not a useful article/there was an error
+                website_text = ""
+                print(website_text)
+                print("did not add article")
+            writer.writerow({'url': website_url, 'text': website_text})
+            print(f"article {i} text extracted")
+        i+=1

@@ -40,6 +40,3 @@ def upload_to_mongodb(input_file):
 
     # Close the MongoDB connection
     client.close()
-
-
-upload_to_mongodb('cleaned_extracted_text.csv')

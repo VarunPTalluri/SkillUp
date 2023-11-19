@@ -43,4 +43,4 @@ Feel free to use, modify, and share financial insights responsibly.
 
 SkillUp – Where Finance Meets Creativity, Each Insight a Step Towards Financial Empowerment! 💰📖
 
-# README Generated with the help of CHATGPT#
+README Generated with the help of CHATGPT
